@@ -1,0 +1,38 @@
+id: P3DDAAC53
+initial_creation_type: input
+source_metadata:
+  title: Light Offering Prayers
+  language: fr
+  description: 'A series of ''lamp aspiration prayers'' (mar me''i smon lam) to accompany
+    the offering of butter lamps, lights or candles:'
+  volume:
+    a4cce35a493a422c80374b0194e47acb:
+      title: Light Offering Prayer
+      parent: Prayers
+    0684f201711d4b82a1b4bf0a4086363a:
+      title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+      parent: Prayers
+    c1ef4b1846ff4cda83f5eec5df3c6347:
+      title: 'Ocean of Offering Clouds: A Light Offering Prayer'
+      parent: Prayers
+    26d5216970094bc78e5de623eb53149f:
+      title: Aspiration for Electric Lamps
+      parent: Prayers
+    6e51a5722caf4b4780233677b9851fc1:
+      title: Brief Light Offering Prayer
+      parent: Prayers
+    6a3b08bd5de34d45a7d111f0770b0f3b:
+      title: 'Marmé Mönlam: The Light Offering Prayer'
+      parent: Prayers
+    b021af7f2281408ebf37080067ceab36:
+      title: Light Offering Aspiration Prayer
+      parent: Prayers
+    129a5cbee0414688a858011c38eca670:
+      title: Lamp Aspiration Prayer
+      parent: Prayers
+    87743d5768274914a1e308912c8c2353:
+      title: 'The Torch of Wisdom: A Method of Offering Butter Lamps Based on Ārya
+        Mañjuśrī'
+      parent: Rituals
+created_at: '2022-03-01T04:11:25.688737'
+last_modified_at: '2022-03-01T04:11:25.688740'
